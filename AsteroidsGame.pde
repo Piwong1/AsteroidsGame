@@ -1,4 +1,4 @@
-//your variable declarations here
+////your variable declarations here
 Star[] Space= new Star[200];
 Spaceship fly=new Spaceship();
  ArrayList <Asteroid> roids;
