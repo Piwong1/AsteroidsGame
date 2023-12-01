@@ -1,3 +1,4 @@
+//up
 class Asteroid extends Floater
 {
   private int multiplier;
